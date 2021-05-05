@@ -28,7 +28,7 @@ you should be able to:
 In our previous class,
 we focused on git for local repositories,
 which means applying version control for files and directories located on our own computers.
-In this class,
+In this class, 
 we'll expand our understanding of version control to include working with remote repositories vit GitHub.
 
 GitHub is a web-based platform for sharing and collaborating with code and data.
@@ -347,3 +347,5 @@ The [GitHub.com help documentation](https://help.github.com/en/github) includes 
 Our next (and final) class is also optional.
 It will review the materials from the first two classes as implemented on the command line,
 and also highlight a few things that the command line interface can accomplish that aren't possible with the tools we've used so far.
+
+Stacey's change
